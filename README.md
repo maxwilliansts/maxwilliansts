@@ -7,11 +7,8 @@
 
 ###
 
-<img = ![Top Hat Reaction GIF](https://github.com/user-attachments/assets/edacb19a-2993-4dab-b523-96cb078981fd)
+<img = "![transferir](https://github.com/user-attachments/assets/21b5f744-7f42-489b-acd4-771bc9cc03b6)"
 
-
-
-"  />
 
 ###
 
