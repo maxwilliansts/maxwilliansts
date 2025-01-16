@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**maxwilliansts/maxwilliansts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Max Willian 👋🏼
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-willian-738412345/?trk=public_profile-settings_edit-profile-content&originalSubdomain=br) 
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maxwillian11_/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
+
+## 
+
+<div style="display; inline_block"><br/>
+ <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<div style="display; inline_block"><br/>
+
+Sou apaixonado por tecnologia, educação e por transformar a vida das pessoas através da programação. A cada dia, estou aprendendo mais e mais, buscando sempre melhorar e fazer a diferença.
