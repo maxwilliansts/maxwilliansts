@@ -28,7 +28,3 @@
 <div style="display; inline_block"><br/>
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
