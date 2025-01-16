@@ -4,13 +4,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maxwilliansts&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
 ###
-
 <img src="https://github.com/user-attachments/assets/21b5f744-7f42-489b-acd4-771bc9cc03b6" alt="transferir" width="200" height="150" />
-
-
-
 ###
 
 <div align="left">
