@@ -7,7 +7,8 @@
 
 ###
 
-<img align="right" height="150" src="!(https://github.com/user-attachments/assets/1631130f-de3f-4753-8b8c-8008911e7ab8)
+<img align="right" height="150" src=![Top Hat Reaction GIF](https://github.com/user-attachments/assets/edacb19a-2993-4dab-b523-96cb078981fd)
+
 
 
 "  />
