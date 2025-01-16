@@ -7,7 +7,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="![Top Hat Reaction GIF](https://github.com/user-attachments/assets/b7360b2f-d4fa-4db3-90f7-57dc7d75d6be)
+"  />
 
 ###
 
