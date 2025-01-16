@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Eusou Max Willian. </h2>
+<h2 align="left">Olá, eu sou Max Willian, moro em Aracaju/SE e sou apaixonado por tecnologia, educação e por transformar a vida das pessoas através da programação. A cada dia, estou aprendendo mais e mais, buscando sempre melhorar e fazer a diferença. </h2>
 
 ###
 
@@ -7,11 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<div style="display; inline_block"><br/>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+<div style="display; inline_block"><br/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+<div style="display; inline_block"><br/>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+<div style="display; inline_block"><br/>
 
 <br clear="both">
 
