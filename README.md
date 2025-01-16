@@ -1,11 +1,9 @@
-<h2 align="left">𝖮𝗅á, 𝗌𝗈𝗎 𝖬𝖺𝗑 𝖶𝗂𝗅𝗅𝗂𝖺𝗇, 𝗆𝗈𝗋𝗈 𝖾𝗆 𝖠𝗋𝖺𝖼𝖺𝗃𝗎/𝖲𝖤 𝖾 𝗌𝗈𝗎 𝖺𝗉𝖺𝗂𝗑𝗈𝗇𝖺𝖽𝗈 𝗉𝗈𝗋 𝗍𝖾𝖼𝗇𝗈𝗅𝗈𝗀𝗂𝖺 𝖾 𝖾𝖽𝗎𝖼𝖺çã𝗈. 𝖠 𝖼𝖺𝖽𝖺 𝖽𝗂𝖺, 𝖺𝗉𝗋𝖾𝗇𝖽𝗈 𝗆𝖺𝗂𝗌 𝖾 𝖻𝗎𝗌𝖼𝗈 𝗍𝗋𝖺𝗇𝗌𝖿𝗈𝗋𝗆𝖺𝗋 𝗏𝗂𝖽𝖺𝗌 𝖺𝗍𝗋𝖺𝗏é𝗌 𝖽𝖺 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝖺çã𝗈. </h2>
+ <h2 align="left">𝖮𝗅á, 𝗌𝗈𝗎 𝖬𝖺𝗑 𝖶𝗂𝗅𝗅𝗂𝖺𝗇, 𝗆𝗈𝗋𝗈 𝖾𝗆 𝖠𝗋𝖺𝖼𝖺𝗃𝗎/𝖲𝖤 𝖾 𝗌𝗈𝗎 𝖺𝗉𝖺𝗂𝗑𝗈𝗇𝖺𝖽𝗈 𝗉𝗈𝗋 𝗍𝖾𝖼𝗇𝗈𝗅𝗈𝗀𝗂𝖺 𝖾 𝖾𝖽𝗎𝖼𝖺çã𝗈. 𝖠 𝖼𝖺𝖽𝖺 𝖽𝗂𝖺, 𝖺𝗉𝗋𝖾𝗇𝖽𝗈 𝗆𝖺𝗂𝗌 𝖾 𝖻𝗎𝗌𝖼𝗈 𝗍𝗋𝖺𝗇𝗌𝖿𝗈𝗋𝗆𝖺𝗋 𝗏𝗂𝖽𝖺𝗌 𝖺𝗍𝗋𝖺𝗏é𝗌 𝖽𝖺 𝗉𝗋𝗈𝗀𝗋𝖺𝗆𝖺çã𝗈. </h2>
 
 ###
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false 
- height="150" alt="languages graph"  />
 </div>
 
 <div style="display; inline_block"><br/>
