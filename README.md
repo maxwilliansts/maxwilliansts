@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou Max Willian, moro em Aracaju/SE e sou apaixonado por tecnologia, educação e por transformar a vida das pessoas através da programação. A cada dia, estou aprendendo mais e mais, buscando sempre melhorar e fazer a diferença. </h2>
+<h2 align="left">Olá, sou Max Willian, moro em Aracaju/SE e sou apaixonado por tecnologia e educação. A cada dia, aprendo mais e busco transformar vidas através da programação. </h2>
 
 ###
 
